@@ -1,4 +1,4 @@
 <?php
-  $currentTime = data("H:i:s");
-  echo "Current time is" . $currentTime. ".";
+  $currentTime = date("H:i:s");
+  echo "現在の時刻は " . $currentTime . " です。";
 ?>
