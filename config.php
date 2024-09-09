@@ -2,5 +2,5 @@
   $serverName
   $userName = "admin";
   $password =
-  $dbname = "name_list"
+  $dbName = "name_list"
 ?>
